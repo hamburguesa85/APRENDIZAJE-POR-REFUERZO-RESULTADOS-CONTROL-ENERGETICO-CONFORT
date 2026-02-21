@@ -1,0 +1,2 @@
+csv_path,freq_name,minutes_per_step,gamma,lr,eps_decay,tau,batch_size,buffer_size,episodes,actions,kwh_real,kwh_dqn,savings_pct,viol_pct,rmse_temp
+C:\Users\rober\Documents\TESIS\Codigos Colab\DQN\miercoles.csv,15 minutos,15,0.95,0.0001,0.998,0.02,256,100000,120,"[-1.0, -0.5, 0.0, 0.5, 1.0]",438.1129505634309,191.74229402542124,56.23450669996563,92.70833333333334,2.7024711874457044

@@ -1,0 +1,2 @@
+se debe cambiar la ubicación de los datasets por la suya en la linea:
+folder_path = r"C:\Users\rober\Documents\TESIS\Datasets\Dataset15min" 

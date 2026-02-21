@@ -1,0 +1,2 @@
+csv_path,freq_name,minutes_per_step,seed,fixed_start_step,episodes,gamma,tau,alpha,lr,w_e,w_c,w_smooth,kwh_real,kwh_sac,savings_pct,viol_pct,rmse_temp
+C:\Users\rober\Documents\TESIS\Codigos Colab\SAC\viernes_hora.csv,1 Hora,60,42,0,50,0.99,0.005,0.2,0.0003,0.6,0.4,0.05,491.7176321744923,462.42121996390904,5.957974718341407,16.666666666666664,0.9871575207263604

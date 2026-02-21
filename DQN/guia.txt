@@ -1,0 +1,1 @@
+Para realizar pruebas con otro dataset se debe subir el dataset a la misma carpeta del modelo y cambiar la linea: NOMBRE_ARCHIVO = "ponereldia.csv"
